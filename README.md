@@ -1,7 +1,16 @@
-# Website-using-django
+# Portfolio Website
 
-THIS IS A SIMPLE WEBSITE BUILT USING DJANGO FRAMEWORK.
+This is a beginner level project.
+It is perfect for showcasing resume, achievements, skills, certifications etc.
+It can further be lauched on web. For simplicity, it runs on local host.
 
-Languages used: Python, CSS, HTML
+## Requirements:
 
-Framework: Django
+Python3 or more
+
+CSS
+
+HTML
+
+Django
+
